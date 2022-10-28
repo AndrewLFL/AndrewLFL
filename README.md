@@ -19,6 +19,6 @@ Me chamo Andrew Luigi. Estou aprendendo HTML,CSS e JS, e desejo me tornar um des
   <a href="https://instagram.com/andrewluigif" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:andrewluigiflima@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/AndrewLFL/AndrewLFL/blob/output/github-contribution-grid-snake.svg)
   
   🎓 Aluno de Desenvolvimento de Sisemas do Cotil Unicamp (2022-2024)
