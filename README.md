@@ -1,8 +1,8 @@
 <h1>Olá 👋</h1>
 
-<h3>Me chamo Andrew Luigi! E desejo me tornar um desenvolvedor Full-Stack no futuro</h3>
+<h3>Me chamo Andrew Luigi!</h3>
 
-  🌱 Aprendendo JS e Tailwind CSS <br>
+  🌱 Aprendendo Java<br>
   🎓 Aluno de Desenvolvimento de Sistemas do Cotil Unicamp (2022-2024)
 <div align="center">
 <picture>
@@ -21,8 +21,8 @@
   <img align="center" alt="Andrew-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Andrew-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Andrew-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Andrew-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="TailwindCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+  <img align="center" alt="Andrew-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="center" alt="Andrew-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
           
 </div>
 
