@@ -2,7 +2,7 @@
 
 <h3>Me chamo Andrew Luigi!</h3>
 
-  🌱 Aprendendo Java!<br>
+  🌱 Aprendendo Java e C#!<br>
   🎓 Aluno de Desenvolvimento de Sistemas do Cotil Unicamp (2022-2024)
 <div style="display: inline_block"><br>
   <img align="center" alt="Andrew-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
