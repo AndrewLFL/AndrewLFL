@@ -2,16 +2,9 @@
 
 <h3>Me chamo Andrew Luigi!</h3>
 
-  🎓 Graduando em Sistemas de Informação - USP (2025-2028)
+  🎓 Graduando em Sistemas de Informação - USP (2025-2028)  <br/>
   🎓 Técnico em Desenvolvimento de Sistemas - Cotil Unicamp (2022-2024)
 
-<div align="center">
-<a href="https://github.com/AndrewLFL">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewLFL&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-
-###
 
 <div>
   <a href="https://instagram.com/andrewluigif" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
