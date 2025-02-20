@@ -2,7 +2,9 @@
 
 <h3>Me chamo Andrew Luigi!</h3>
 
-  🎓 Aluno de Desenvolvimento de Sistemas do Cotil Unicamp (2022-2024)
+  🎓 Graduando em Sistemas de Informação - USP (2025-2028)
+  🎓 Técnico em Desenvolvimento de Sistemas - Cotil Unicamp (2022-2024)
+
 <div align="center">
 <a href="https://github.com/AndrewLFL">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewLFL&layout=compact&langs_count=7&theme=dracula"/>
