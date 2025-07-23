@@ -1,6 +1,6 @@
 <h1>Olá 👋</h1>
 
-Me chamo Andrew Luigi sou um Software Developer, buscando me aperfeiçoar em back-end. Entusiasta em Data Science.
+Me chamo Andrew Luigi sou um Software Developer, buscando me aperfeiçoar na área de Data Science.
 
 <h2>Formação Acadêmica</h2>
   🎓 Graduando em Sistemas de Informação - USP (2025-2028)  <br/>
